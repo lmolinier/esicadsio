@@ -5,7 +5,6 @@ public class SommeArgent {
 	private int quantite;
 	private String unite;
 
-
 	public SommeArgent(int amount, String currency) {
 		this.quantite = amount;
 		this.unite = currency;
